@@ -9,5 +9,5 @@
 -<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 <br>
 <br>
--<img src="https://github.com/rodrigoddias/wide/blob/main/img/DASKTOPP.png?raw=true">
+-<img src="https://github.com/rodrigoddias/wide/blob/main/dasktop3.png?raw=true">
                 
